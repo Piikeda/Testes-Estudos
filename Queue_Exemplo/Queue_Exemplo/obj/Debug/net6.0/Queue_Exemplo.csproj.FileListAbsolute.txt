@@ -1,0 +1,15 @@
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\bin\Debug\net6.0\Queue_Exemplo.exe
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\bin\Debug\net6.0\Queue_Exemplo.deps.json
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\bin\Debug\net6.0\Queue_Exemplo.runtimeconfig.json
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\bin\Debug\net6.0\Queue_Exemplo.dll
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\bin\Debug\net6.0\Queue_Exemplo.pdb
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.csproj.AssemblyReference.cache
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.AssemblyInfoInputs.cache
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.AssemblyInfo.cs
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.dll
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\refint\Queue_Exemplo.dll
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.pdb
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\Queue_Exemplo.genruntimeconfig.cache
+C:\Users\ikeda\source\repos\Queue_Exemplo\Queue_Exemplo\obj\Debug\net6.0\ref\Queue_Exemplo.dll
